@@ -20,3 +20,10 @@ The goal of this project is to perform data analytics on Uber data using various
   3. BigQuery
   4. Looker Studio
   5. Modern Data Pipeine Tool - https://www.mage.ai/
+
+### Dataset Used
+
+TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
+
+see dataset [here](data/uber_data.csv)
+
