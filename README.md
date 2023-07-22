@@ -27,3 +27,6 @@ TLC Trip Record Data Yellow and green taxi trip records include fields capturing
 
 see dataset [here](data/uber_data.csv)
 
+### DataModel
+
+![My Image](https://github.com/ansel9618/Uber-Data-Analytics-GCP/blob/main/Uber_data_model.png)
